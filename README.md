@@ -1,4 +1,4 @@
-# Brainfxxk-compiler: A compiler that turns Brainfuck code into a Windows executable
+# Brainfxxk-compiler: A compiler that turns Brainfxxk code into a Windows executable
 The compiler of Brainfxxk
 
 Compile command is `"bf xxx.bf xxx.exe"`
@@ -24,3 +24,6 @@ C:\Program Files\Brainfxxk-compiler\bin\
 
 ## 2. Open source code
 Download "./code/bf.cpp" and "./code/h/filep.h"
+
+## 3. Principle
+Convert Brainfuck code into C++ code, and then compile the C++ code into an `.exe` file
