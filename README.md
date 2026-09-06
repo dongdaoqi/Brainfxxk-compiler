@@ -3,6 +3,9 @@ The compiler of Brainfxxk
 
 Compile command is `"bf xxx.bf xxx.exe"`
 ## 1. Installation
+
+You need to download another compiler from [Mingw official website](https://www.mingw-w64.org) and add it to the environment variables.
+
 Download the "./bin/bf.exe",
 
 Press Win + R, type sysdm.cpl, and hit Enter.
