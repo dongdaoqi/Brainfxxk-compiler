@@ -16,7 +16,7 @@ Under System variables (or User variables), find and select Path, then click Edi
 
 Click New and paste the full path to your bin folder.
 
-For example, if your project is at C:\Program Files\Brainfxxk-compiler\bin, add:
+For example, if your project is at C:\Program Files\Brainfxxk-compiler, add:
 
 ```path
 C:\Program Files\Brainfxxk-compiler\bin\
